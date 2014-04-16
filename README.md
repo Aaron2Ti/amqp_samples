@@ -6,6 +6,18 @@
  bundle exec ruby direct.rb
 ```
 
+## fanout
+
+```
+ bundle exec ruby fanout.rb
+```
+
+## topic
+
+```
+ bundle exec ruby topic.rb
+```
+
 ## the load banlancer
 
 ```
