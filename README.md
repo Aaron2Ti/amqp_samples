@@ -22,7 +22,7 @@ Please refer [https://www.rabbitmq.com/download.html](https://www.rabbitmq.com/d
  bundle exec ruby topic.rb
 ```
 
-## the load banlancer
+## the load balancer
 
 ```
  # run the producer
