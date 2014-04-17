@@ -1,5 +1,9 @@
 # Samples to show how AMQP works
 
+## Install RabbitMQ
+
+Please refer [https://www.rabbitmq.com/download.html](https://www.rabbitmq.com/download.html)
+
 ## the direct exchange example
 
 ```
